@@ -1,0 +1,247 @@
+{
+  "title": "Digital Portfolio - Aránzazu Berasaluce",
+  "nav": {
+    "inicio": "Home",
+    "viaje": "My Journey",
+    "habilidades": "Skills",
+    "sobre-mi": "About Me",
+    "proyectos": "Projects",
+    "inspiracion": "Inspiration",
+    "contacto": "Contact"
+  },
+  "inicio": {
+    "eyebrow": "Web Developer · Digital Designer · Storyteller · \"Special\" · Gamer",
+    "title": "Hi, I'm ",
+    "name": "Aránzazu Berasaluce!",
+    "desc": "More than creating websites, I build digital experiences that tell a story without words. My training as web developer, combined with game design, allows me to mix my creativity, usability and tecnology in an unique way. And my sense of humor... well, let's just say it's a little special, even to the point of describing myself as a \"spacial\" as a joke... but is my positive way of living the life ᓚᘏᗢ.",
+    "proyectos": "Go to projects →",
+    "sobre-mi": "About me",
+    "hero-tagline": "Curious as a cat, always learning something new ᓚ₍ ^. .^₎"
+  },
+  "viaje": {
+    "section-eyebrow": "MY JOURNEY",
+    "section-title": "My growth",
+    "section-desc": "Big or little steps, every one of them has taken me to where I am today. From storytelling to programming, every experience has shapen me as a professional and as a person.",
+    "timeline": [
+      {
+        "timeline-year": "2017",
+        "timeline-title": "The first career",
+        "timeline-desc": "My journey started with Design of Digital Games, where I developed my love for interactive storytelling and use of visuals in order to tell stories without depending on words. There I learned that every design decision has a reason to be, is not only decoration or random."
+      },
+      {
+        "timeline-year": "2021",
+        "timeline-title": "DireGrin: PartySaur",
+        "timeline-desc": "I worked for a dearly friend and a mentor in his indie videogames studio 'DireGrin'. My first task was the creation of the GDD (Game Design Document) for various projects, being the most important the one for 'PartySaur', a party game with dinosaurs. After that, I worked on 3D modeling of the trees by using SpeedTree, wich meant a lot of hours of observation of trees... It wasn't very fun."
+      },
+      {
+        "timeline-year": "2024",
+        "timeline-title": "Web Development",
+        "timeline-desc": "With the videogames crisis growing, I had to change my career path. Scared to the bone because of my difficulties with programming, I pushed myself to learn web development. UX/UI design, HTML5, CSS, SASS, JavaScript, JQuery, WordPress, PHP, MySQL, Ajax, Api-Rest... Never depending on plugins or design templates. Now I can say that I really enjoy this path, even tho I still scream inside and blame the layer 8 every time something doesn't work, especially for a \";\"."
+      },
+        {
+        "timeline-year": "Today",
+        "timeline-title": "The hysterical developer",
+        "timeline-desc": "I haven't stopped working in websites until I make them work properly. 5 minutes or 13 hours? I don't leave the chair until I'm satisfied with it. My sense of humor has become a bit self-deprecating, but it's just my way of coping with the frustration. And when everything finally turns out? \"TAKE THAT, LAYER 8!\"... and internal celebration screams, but showing a poker face... Yeah... ᓚ₍ ◣_◢ ₎"
+      }
+    ]
+  },
+  "habilidades": {
+    "secion-eyebrow": "SKILLS",
+    "section-title": "What I can do",
+    "section-desc": "Tools, languages and skills I've developed through my studies, proyects and because I'm... \"spacial\" for my things.",
+    "buttons": [
+      {"text": "Web Devbelopment", "target": "panel-web"},
+      {"text": "WordPress & Tools", "target": "panel-cms"},
+      {"text": "Creativity and others", "target": "panel-creativas"},
+      {"text": "Languages", "target": "panel-idiomas"}
+    ],
+"panels": {
+
+  "panel-web": {
+    "counter": "Web Development · 5 skills",
+    "items": [
+      { "skill": "HTML5", "label": "High level of proficiency" },
+      { "skill": "CSS / SCSS", "label": "High level of proficiency" },
+      { "skill": "JavaScript", "label": "Moderate level of proficiency" },
+      { "skill": "PHP", "label": "High level of proficiency" },
+      { "skill": "MySQL", "label": "Moderate level of proficiency" }
+    ]
+  },
+
+  "panel-cms": {
+    "counter": "WordPress & Tools · 3 skills",
+    "items": [
+      { "skill": "WordPress", "label": "High level of proficiency" },
+      { "skill": "Figma", "label": "High level of proficiency" },
+      { "skill": "Secure Custom Fields (ACF / SCF)", "label": "High level of proficiency" },
+      { "skill": "Blender", "label": "Basic level of proficiency" }
+    ]
+  },
+
+  "panel-creativas": {
+    "counter": "Creativity Skills · 5 skills",
+    "items": [
+      { "skill": "UI/UX Design", "label": "High level of proficiency" },
+      { "skill": "Storytelling", "label": "High level of proficiency" },
+      { "skill": "Digital Design", "label": "High level of proficiency" },
+      { "skill": "Problem Solving", "label": "High level of proficiency" },
+      { "skill": "Visual Storytelling Analysis", "label": "High level of proficiency" }
+    ]
+  },
+
+  "panel-idiomas": {
+    "counter": "Languages · 2 skills and... 1 flex?",
+    "items": [
+      { "skill": "Spanish (Native)", "label": "High level of proficiency" },
+      { "skill": "English", "label": "High level of proficiency" },
+      { "skill": "Subnormal (Humor)", "label": "Is this even a flex?" }
+    ]
+  }
+
+}
+  },
+  "sobre-mi": {
+    "section-eyebrow": "BEYOND THE SCREEN",
+    "section-title": "The person who hides behind the code",
+"desc-segments": [
+    { "text": "Who am I? ", "tag": null },
+    { "text": "If I knew that answer, I wouldn't be asking!", "tag": "tachado" },
+    { "text": " This little section is only a mix of what defines me as ", "tag": null },
+    { "text": "being able to look human", "tag": "tachado" },
+    { "text": " a person.", "tag": null }
+  ],
+  "card-segments":[
+    {
+      "card-title": "Cats",
+      "card-desc": "Cat I see, cat that I pet. When I grow old, I'll be known as the \"Crazy Cat Lady\". If my beloved cats \"Enano\" and \"Cochino\" were alive, they would help me write this section, but because they can't, I will step on the desk for them: \"po0lk,llmnmnmhjjiu7uy6hbgk\"."
+    },
+    {
+      "card-title": "Storytelling",
+      "card-desc": "I love creating all type of stories, from fanfics to original ones. Before I go to sleep, I rolplay with an AI if my friend of roleplay isn't online. And no, I'll not share the fanfics I've weitten for the better of the world and your mental health."
+    },
+    {
+      "card-title": "Videogames",
+      "card-desc": "Game designer, EXTREMELY fan of videogames... I love a good story, gameplay, music... And why not a bit of parrying? I finished Clair Obscur's infinite tower only by using parrys. (Die, Chromatic Lampmaster, with all your descendants for cheating. Long live Simon.) "
+    },
+      {
+      "card-title": "Movies",
+      "card-desc": "\"Come with me, and you'll be in a world of pure imagination.\" Movie enthusiast from the soul. From pure quality to the remake of \"Ladykillers\", from cult classics to modern movies, I can only say one thing: \"JUST DISAPPEAR, DISNEY! STOP RUINING EVERYTHING\"."
+    },
+    {
+      "card-title": "Anime",
+      "card-desc": "From Steel Ball Run, to Gugure Kokkuri-san. I watch pretty much everything. Even tho I LOVE One Piece, I'm not shy when it comes to criticizing what GODa does wrong. And yes, I also critize to the extreme the horrible ending of SNK and Mikasa Ackerman as the most dragged down character of the story (after Jean)."
+    },
+    {
+      "card-title": "Astronomy",
+      "card-desc": "The space walk without a security system in case is the most terrifying photo ever taken, as well as the interpretation of waves and energy of dark holes to simulate their sound... But my God, I could spend my whole life learning about space."
+    },
+    {
+      "card-title": "Learning",
+      "card-desc": "From aerial accidents investigation, to useless data, I can only say two things: \"Your white cells don't know about your eyes, and the Somme won 324 km of territory for 1.100.000 lives.\""
+    },
+    {
+      "card-title": "Books",
+      "card-desc": "A bit of everything (except Homer). We are advancing to a type of society like in Fahrenheit 451 or Brave New World... However it is, I like to read... And yea, \"Neverending Story\" technically ends, but the story itself is an eternal cycle."
+    },
+    {
+      "card-title": "Digital Art",
+      "card-desc": "I love to draw, even tho I have an old Wacom that my beloved grandfather gifted me. I draw little, but when I draw, I get entertained... Or paint panels of manga I love. And as good artist: I never finish my drawings."
+    }
+  ]
+  },
+  "proyectos": {
+    "section-eyebrow": "PROJECTS",
+    "section-title": "My favorite projects",
+    "section-desc": "Even tho every one of them, separated, have created a lot of headaches during some part of the development process, they still are the websites I loved to create and work on, helping me learn new things in one way or another.",
+    "card-proyectos":[
+      {
+        "card-title": "Mirador Interactive Museum",
+        "card-challenge": "Challenge",
+        "card-c-desc": "Redesign the website of the Mirador Interactive Museum, specifically the astronomy area.",
+        "card-solution": "Solution",
+        "card-s-desc": "I was in charge of the responsive design of the website, as well as upgrading the system navigation of the timeline and 3D models optimization.",
+        "card-finished": "Responsive website with accessible timeline from the map of the home page, as well as lighter 3D models.",
+        "card-link": "Go to Proyect →"
+      },
+      {
+        "card-title": "Everest: Homage and not just a statistic.",
+        "card-challenge": "Challenge",
+        "card-c-desc": "Create a website that shows every Mount Everest victim to date.",
+        "card-solution": "Solution",
+        "card-s-desc": "With callbacks to Wikipedia, the data is extracted from the page and is pasted with the names and other information in a long scroll that represents Everest's height.",
+        "card-finished": "The website, through a long scroll, shows all the victims of Mount Everest at their respective heights, people counter and nationalities.",
+        "card-link": "Go to Proyect →"
+      },
+      {
+        "card-title": "DEC Studio",
+        "card-challenge": "Challenge",
+        "card-c-desc": "Creating a layer's website with personal cases tracking by conecting Excel with WordPress, and registering users with passwords.",
+        "card-solution": "Solution",
+        "card-s-desc": "By using Vendor and an API of Google Cloud, the cron-job extracts the data of Excel every 12 hours to update the database, overwriting the previous data if there are changes.",
+        "card-finished": "The website, through Vendor and an API of Google Cloud, recieves information from an Excel with the clients and their data to allow them to track their own cases in a secure way.",
+        "card-link": "Go to Proyect →"
+      },
+        {
+        "card-title": "Sakura Candy Box",
+        "card-challenge": "Challenge",
+        "card-c-desc": "Complete redesign of a website with page issues and very confusing for the user, creating a visual experience that matches the store and a better navigation.",
+        "card-solution": "Solution",
+        "card-s-desc": "Teamwork, creating the code by using HTML5, CSS and adding the description and score of products. In this project, this was the first time we did a website from scratch.",
+        "card-finished": "Complete redesign proposal with optimized and clean code, correct use of HTML5 semantic and completly responsive.",
+        "card-link": "Go to Proyect →"
+      }
+    ]
+  },
+  "inspiracion": {
+    "section-eyebrow": "Inspiration",
+    "section-title": "My inspirations",
+    "section-desc": "What makes me want to keep making all type of projects?",
+    "inspo-cards":[
+      {
+      "card-title": "Stories and Worlds",
+      "card-desc": "How can I create a website that tells a story without using words? Storytelling helps me a lot with that, from colour psycology, to the use of language. All the things I know and learn, I use it.",
+      "badge-title": "Stories and Worlds",
+      "badge-sub": "Inspiration source"
+      },
+      {
+      "card-title": "Interactive Experiences",
+      "card-desc": "A fixed / static website doesn't draw attention. Imagine visiting a website that only has text, images and (with some luck), colours... We have screens for a reason! Let's move everything, interactive, discover something new! That's what I want to do.",
+      "badge-title": "Interactive Experiences",
+      "badge-sub": "Inspiration source"
+      },
+      {
+      "card-title": "Learning new tecnologies",
+      "card-desc": "New tecnologies force me to adapt constantly. Why not use it to my advantage to create something interesting and usefu? Videos, images, a curious type of code... Everything that comes to my attention!",
+      "badge-title": "Learning new tecnologies",
+      "badge-sub": "Inspiration source"
+      },
+      {
+      "card-title": "Curiosity-driven projects",
+      "card-desc": "What if I could scroll down on a website of Mount Everest that shows all the victims at their respective height? Or a website with a airplane that shows every part of it related to an accident? The best way to learn something is doing something interesting and using visuals.",
+      "badge-title": "Curiosity-driven projects",
+      "badge-sub": "Inspiration source"
+      },
+      {
+      "card-title": "Human connection",
+      "card-desc": "Behind every project, commerce or information, is made by someone who stopped to think and analize, that chose to put all her effort in something she loves and wants to share it with the world. I always want to give the best of myself and show it.",
+      "badge-title": "Human connection",
+      "badge-sub": "Inspiration source"
+      },
+      {
+      "card-title": "Beauty in details",
+      "card-desc": "From colours, to web accesibility. I want every project to looks good and works properly... And if I can put a little detail hidden, I will (with persmision, of course)... Don't you believe it? Open the console (F12) in the \"Console\" tab and seek for a surprise! Or, using a PC, use the Konami code! (↑ ↑ ↓ ↓ ← → ← → B A)",
+      "badge-title": "Beauty in details",
+      "badge-sub": "Inspiration source"
+      }
+    ]
+  },
+  "contacto":{
+    "section-eyebrow": "Contact",
+    "section-title": "Wanna work with me?",
+    "section-desc": "Let's talk! If you have a project in mind or a crazy idea, don't hesitate to contact me. I always want to do something new.",
+    "contact-timeline": "ᓚ₍ ^. .^₎ — thanks for scrolling until here ✦"
+  },
+  "footer": {
+    "footer-tagline": "Built with curiosity, creativity and a lot of meows."
+  }
+}
